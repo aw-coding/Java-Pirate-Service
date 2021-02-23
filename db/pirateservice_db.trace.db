@@ -1,0 +1,27 @@
+2021-02-22 18:37:12 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+SELECT * FROM pirates [42102-200]
+2021-02-22 18:37:15 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+SELECT * FROM pirates [42102-200]
+2021-02-22 18:37:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+select pirate0_.id as id1_0_, pirate0_.age as age2_0_, pirate0_.first_name as first_na3_0_, pirate0_.last_name as last_nam4_0_ from pirates pirate0_ [42102-200]
+2021-02-22 18:37:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+select pirate0_.id as id1_0_, pirate0_.age as age2_0_, pirate0_.first_name as first_na3_0_, pirate0_.last_name as last_nam4_0_ from pirates pirate0_ [42102-200]
+2021-02-22 18:37:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+select pirate0_.id as id1_0_, pirate0_.age as age2_0_, pirate0_.first_name as first_na3_0_, pirate0_.last_name as last_nam4_0_ from pirates pirate0_ [42102-200]
+2021-02-22 18:37:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+select pirate0_.id as id1_0_, pirate0_.age as age2_0_, pirate0_.first_name as first_na3_0_, pirate0_.last_name as last_nam4_0_ from pirates pirate0_ [42102-200]
+2021-02-22 18:37:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+select pirate0_.id as id1_0_, pirate0_.age as age2_0_, pirate0_.first_name as first_na3_0_, pirate0_.last_name as last_nam4_0_ from pirates pirate0_ [42102-200]
+2021-02-22 18:38:08 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+SELECT * FROM pirates [42102-200]
+2021-02-22 19:42:36 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIRATES" not found; SQL statement:
+SELECT * FROM pirates [42102-200]
